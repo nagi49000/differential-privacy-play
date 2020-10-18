@@ -1,0 +1,10 @@
+name: diff_privacy_play_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter>=1.0.0
+  - mkl>=2020.2
+  - numpy>=1.19.2
+  - python>=3.7.8
+
